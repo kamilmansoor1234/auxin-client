@@ -1,4 +1,4 @@
-package avengersclient
+package main
 
 import (
 	"fmt"
@@ -8,7 +8,7 @@ import (
 )
 
 // Default avengers-backend URL
-const HostURL string = "http://localhost:8000"
+const HostURL string = "https://r7qkej7o2i.execute-api.us-east-1.amazonaws.com/my-function"
 
 type Client struct {
 	HostURL    string

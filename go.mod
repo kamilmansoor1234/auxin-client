@@ -1,3 +1,3 @@
-module github.com/sourav977/avengers-client
+module https://github.com/kamilmansoor1234/auxin-client.git
 
-go 1.16
+go 1.14.2
