@@ -1,6 +1,6 @@
-package avengersclient
+package main
 
-type Avenger struct {
+type Server struct {
 	ID     string `json:"_id,omitempty"`
 	Name   string `json:"name,omitempty"`
 	Alias  string `json:"alias,omitempty"`
